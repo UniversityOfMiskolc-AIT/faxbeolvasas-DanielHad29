@@ -1,0 +1,16 @@
+C:\Users\Hadobas Daniel\source\repos\Fax\Fax\bin\Debug\net5.0\Fax.exe
+C:\Users\Hadobas Daniel\source\repos\Fax\Fax\bin\Debug\net5.0\Fax.deps.json
+C:\Users\Hadobas Daniel\source\repos\Fax\Fax\bin\Debug\net5.0\Fax.runtimeconfig.json
+C:\Users\Hadobas Daniel\source\repos\Fax\Fax\bin\Debug\net5.0\Fax.runtimeconfig.dev.json
+C:\Users\Hadobas Daniel\source\repos\Fax\Fax\bin\Debug\net5.0\Fax.dll
+C:\Users\Hadobas Daniel\source\repos\Fax\Fax\bin\Debug\net5.0\ref\Fax.dll
+C:\Users\Hadobas Daniel\source\repos\Fax\Fax\bin\Debug\net5.0\Fax.pdb
+C:\Users\Hadobas Daniel\source\repos\Fax\Fax\obj\Debug\net5.0\Fax.csprojAssemblyReference.cache
+C:\Users\Hadobas Daniel\source\repos\Fax\Fax\obj\Debug\net5.0\Fax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hadobas Daniel\source\repos\Fax\Fax\obj\Debug\net5.0\Fax.AssemblyInfoInputs.cache
+C:\Users\Hadobas Daniel\source\repos\Fax\Fax\obj\Debug\net5.0\Fax.AssemblyInfo.cs
+C:\Users\Hadobas Daniel\source\repos\Fax\Fax\obj\Debug\net5.0\Fax.csproj.CoreCompileInputs.cache
+C:\Users\Hadobas Daniel\source\repos\Fax\Fax\obj\Debug\net5.0\Fax.dll
+C:\Users\Hadobas Daniel\source\repos\Fax\Fax\obj\Debug\net5.0\ref\Fax.dll
+C:\Users\Hadobas Daniel\source\repos\Fax\Fax\obj\Debug\net5.0\Fax.pdb
+C:\Users\Hadobas Daniel\source\repos\Fax\Fax\obj\Debug\net5.0\Fax.genruntimeconfig.cache
